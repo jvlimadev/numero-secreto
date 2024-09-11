@@ -3,5 +3,5 @@
 
 Para rodar o projeto na sua página, por favor digite:
 ```
-npm install react
+node app.js
 ```
